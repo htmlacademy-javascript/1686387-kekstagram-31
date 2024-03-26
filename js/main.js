@@ -59,5 +59,3 @@ const getDescription = () => {
 
 
 const similarDescription = Array.from({length: 25}, getDescription);
-
-console.log(similarDescription);
